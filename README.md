@@ -1,2 +1,2 @@
 # gitVideo
-Adding a readme for tes purposes
+Adding a readme for test purposes
